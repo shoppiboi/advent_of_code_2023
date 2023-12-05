@@ -61,3 +61,4 @@ with open("input.txt", "r") as input_lines:
         number_combinations.append(int(str(first_digit)+str(last_digit)))
 
     print(sum(number_combinations))
+    #   solution - 53515
